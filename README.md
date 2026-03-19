@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm Toufik Hossain
 
-<!--
-**toufikhossain11/toufikhossain11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Frontend Developer  
+🚀 Passionate about Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🌱 I’m currently learning **React & Advanced JavaScript**
+- 💻 I build projects using **HTML, CSS, JavaScript**
+- 📚 Improving my skills by building projects daily
+- 🎯 Goal: Become a professional Frontend Developer
+
+---
+
+## 🛠 Skills
+- HTML  
+- CSS  
+- JavaScript  
+- DOM Manipulation  
+- React  
+- Git & GitHub  
+- Responsive Design  
+
+---
+
+## 🚀 Projects
+🔹 Todo App  
+- Add, delete, complete tasks  
+- Built with JavaScript  
+
+🔹 Responsive Website  
+- Fully responsive design  
+- Built with HTML & CSS  
+
+---
+
+## 📫 Contact Me
+- Email: toufikhossain546@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/toufik-hossain-779b62201/
+
+---
+
+⭐️ Thanks for visiting my profile!

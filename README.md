@@ -20,7 +20,9 @@
 - DOM Manipulation  
 - React  
 - Git & GitHub  
-- Responsive Design  
+- Responsive Design
+- Tailwind CSS
+- DaisyUI
 
 ---
 

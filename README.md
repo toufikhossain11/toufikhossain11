@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=0F6E56&width=450&lines=Hi+👋;I'm+Toufik+Hossain" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F6E56&size=35&center=false&vCenter=true&width=450&lines=Hi+👋;I'm+Toufik+Hossain)](https://git.io/typing-svg)
 
 # 💻 Full Stack Developer (MERN)
 
